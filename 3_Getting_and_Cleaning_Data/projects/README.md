@@ -24,7 +24,7 @@ README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecou
 FirstName | LastName | Email
 --- | --- | ---
 Michael |  Galarnyk |  <mgalarny@gmail.com>
-Chris |  N | <castaic98@yahoo.com>
+Chris |  N | <castaic98@icloud.com>
 
 ## License
 
